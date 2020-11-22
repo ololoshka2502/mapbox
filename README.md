@@ -1,4 +1,4 @@
-# mapbox
+# Mapbox 
 Requirements
 1. Show map using mapbox service https://www.mapbox.com/. Starting location doesn’t matter.
 2. User can place the marker by clicking on the map, marker has a score 0 – 5 depending on the score the color of the marker will change:
